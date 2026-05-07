@@ -112,12 +112,19 @@ Key analyses performed:
 
 ## 🌐 Streamlit Dashboard
 
-Interactive dashboard features:
-- Customer churn prediction
-- Risk probability scoring
-- Feature importance visualization
-- Customer profile analytics
+### Dashboard Preview
 
+#### Main Dashboard
+![Dashboard](Screenshots/dashboard.png)
+
+#### Roc Curve
+![Roc Curve](Screenshots/roc_curve.png)
+
+#### Feature Importance
+![Feature Importance](Screenshots/feature_importance.png)
+
+#### SHAP Explainability
+![SHAP](Screenshots/shap_summary.png)
 ---
 
 ## 📂 Project Structure
