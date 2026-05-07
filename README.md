@@ -58,6 +58,15 @@ The dataset includes customer information such as:
 
 ---
 
+## 📂 Dataset Information
+
+The dataset used in this project contains customer demographic, financial, and engagement-related information for churn prediction analysis.
+
+Dataset Link:  
+https://drive.google.com/file/d/1TpMEWG4De0sD_P7_VJ7HtjT_89jlJHpQ/view
+
+---
+
 ## 🧠 Machine Learning Models
 
 ### Baseline Model
@@ -126,6 +135,12 @@ Key analyses performed:
 #### SHAP Explainability
 ![SHAP](Screenshots/shap_summary.png)
 ---
+
+## 🚀 Live Streamlit Deployment
+
+Live AI Dashboard:  
+https://bank-customer-churn-prediction-zehbhebulm3jrxfhnstjvy.streamlit.app/
+
 
 ## 📂 Project Structure
 
