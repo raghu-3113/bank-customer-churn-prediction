@@ -14,9 +14,9 @@ st.set_page_config(
 
 # ---------------- LOAD MODEL ---------------- #
 
-model = joblib.load("../models/churn_model.pkl")
+model = joblib.load("models/churn_model.pkl")
 
-scaler = joblib.load("../models/scaler.pkl")
+scaler = joblib.load("models/scaler.pkl")
 
 # ---------------- TITLE ---------------- #
 
