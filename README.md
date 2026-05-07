@@ -134,6 +134,7 @@ Key analyses performed:
 
 #### SHAP Explainability
 ![SHAP](Screenshots/shap_summary.png)
+
 ---
 
 ## 🚀 Live Streamlit Deployment
@@ -141,6 +142,7 @@ Key analyses performed:
 Live AI Dashboard:  
 https://bank-customer-churn-prediction-zehbhebulm3jrxfhnstjvy.streamlit.app/
 
+---
 
 ## 📂 Project Structure
 
